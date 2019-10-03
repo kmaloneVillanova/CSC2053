@@ -9,7 +9,7 @@ import java.util.TreeMap;
 import java.util.TreeSet;
 
 /**
- *CollectionChallengesStarterCode is a series of empty methods that should be completed 
+ *Lab 1: CollectionChallengesStarterCode is a series of empty methods that should be completed 
  *using the Collections Framework. 
  *The main method is a test driver of all the methods. It uses a unit testing style.
  *Methods are from codestepbystep.com and codingbat.com
