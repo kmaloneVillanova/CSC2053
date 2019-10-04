@@ -15,6 +15,9 @@ import java.util.TreeSet;
  *Methods are from codestepbystep.com and codingbat.com
  *Change made in second section of 2053
  * @author Kathleen Malone
+=======
+ * @author Kathleen Malone Villanova University
+>>>>>>> b93e0692c6e4d26c9c3d0e7d112adb30c9357a70
  */
 public class CollectionChallengesStarterCode {
 		
