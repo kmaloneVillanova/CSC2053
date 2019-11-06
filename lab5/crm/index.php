@@ -55,14 +55,8 @@ $(function() {
 /*Table displays only the first customer found in customers.txt
 AND the html is hard coded. Developer mentioned she needs to update 
 it to use a foreach loop to create a <tr> and <td> for each customer
-I would suggest printing out the contents of the $customers array
-that contains all of the customer data found in data.txt.
-foreach ($customers as $cust) {
-foreach($cust as $key=>$val) {
-  echo "key is $key and val is $val  <br>";
-}
-}
-Once you know what's in the array place it in the table.
+I would suggest printing out the contents of the $customers array.
+Once you know what's in the array, place it in the table.
 See the order table below for some more hints.
 */
 echo '<tr>';
