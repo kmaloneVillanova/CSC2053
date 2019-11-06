@@ -54,7 +54,7 @@ $(function() {
 /******************* TO DO ***************************/
 /*Table displays only the first customer found in customers.txt
 AND the html is hard coded. Developer mentioned she needs to update 
-it to use a foreach loop to create a <tr> and <td> for each customer
+it to use a foreach loop to create a <tr> and <td> for each customer.
 I would suggest printing out the contents of the $customers array.
 Once you know what's in the array, place it in the table.
 See the order table below for some more hints.
@@ -76,7 +76,9 @@ echo '</tr>';
 /*See the URL that is created above for when the customer name is clicked.
 It contains a query string like customer=ID
 The code below checks if the request method is GET and if so it then
-checks for the customer value set in the query string of the URL */
+checks for the customer value set in the query string of the URL.
+Once it has that it creates a $requestedCustomer array. You should
+observe the contents of that array and use it below. */
 if ($_SERVER['REQUEST_METHOD'] == 'GET') {
   if (isset($_GET['customer'])) {
     $requestedCustomer = $customers[$_GET['customer']];
