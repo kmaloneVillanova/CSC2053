@@ -1,0 +1,26 @@
+1,4,0133360903,Building Java Programs,Computer Science
+2,6,0321836995,Mathematics All Around,Mathematics
+3,24,0321825721,Mathematics for Elementary Teachers with Activity Manual,Mathematics
+4,10,0133011208,Business Math,Business
+5,10,0321836960,Elementary Statistics,Statistics
+6,15,0321838696,Business Statistics: A First Course,Statistics
+7,19,0133485102,Managing Engineering and Technology,Engineering
+8,2,0133128911,Basics of Web Design: HTML5 & CSS3,Computer Science
+9,2,0133068307,Introduction to JavaScript Programming with XML and PHP,Computer Science
+10,3,0133251241,Horngren's Financial & Managerial Accounting,Business
+11,18,0132948850,Survey of Economics,Economics
+12,18,0132948869,Microeconomics,Economics
+13,18,0132991330,Macroeconomics,Economics
+14,18,0132992795,Macroeconomics, 2/e,Economics
+15,16,0132730359,E-Commerce 2013,Business
+16,29,0132993341,Fundamentals of Futures and Options Markets,Business
+17,21,0132991306,Modern Systems Analysis and Design,Business
+18,25,0321836960,Elementary Statistics,Statistics
+19,25,0321838696,Business Statistics: A First Course,Statistics
+20,5,0133255433,Horngren's Financial & Managerial Accounting, The Managerial Chapters,Business
+21,5,0133255573,Horngren's Financial & Managerial Accounting. The Financial Chapters,Business
+22,11,0205890962,Mosaics: Reading and Writing Essays 6e,Student Success
+23,30,013335671X,Machine Design,Engineering
+24,23,0136015727,Reliability Engineering,Engineering
+25,23,0132832887,Aerodynamics for Engineers,Engineering
+26,23,0321899970,Technical Communication,English
