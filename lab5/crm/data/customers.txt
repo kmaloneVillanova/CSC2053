@@ -1,0 +1,12 @@
+2;Leonie;Kohler;leonekohler@surfeu.de;University of Stuttgart;Theodor-Heuss-Strasse 34;Stuttgart;;Germany;70174;+49 0711 2842222;1,4,4,7,5,9,10,10,10,12,11,9
+3;Bjorn;Hansen;bjorn.hansen@yahoo.no;University of Oslo;Ullevalsveien 14;Oslo;;Norway;0171;+47 22 44 22 22;6,4,4,7,8,9,10,10,6,6,3,9
+4;Francois;Tremblay;ftremblay@gmail.com;McGill University;1498 rue Belanger;Montreal;QC;Canada;H2G 1A7;+1 (514) 721-4711;9,12,14,17,15,12,10,10,10,16,11,9
+5;František;Wichterlova;frantisekw@jetbrains.com;Charles University;Klanova 9/506;Prague;;Czech Republic;14700;+420 2 4172 5555;1,2,4,3,5,1,1,1,1,2,1,5
+6;Astrid;Gruber;astrid.gruber@apple.at;Vienna University;Rotenturmstrasse 4; Vienna;;Austria;1010;+43 01 5134505;6,4,8,7,8,9,5,7,6,6,3,9
+7;Helena;Holy;hholy@gmail.com;Charles University;Rilska 3174/6;Prague;;Czech Republic;14300;+420 2 4177 0449;3,3,4,7,2,3,2,10,6,6,3,9
+16;Aaron;Mitchell;aaronmitchell@yahoo.ca;University of Manitoba;696 Osborne Street;Winnipeg;MB;Canada;R3L 2B9;+1 (204) 452-6452;4,4,7,8,9,4,10,6,6,3,9,11
+17;Ellie;Sullivan;ellie.sullivan@shaw.ca;Aurora College;5112 48 Street;Yellowknife;NT;Canada;X1A 1N6;+1 (867) 920-2233;11,14,8,7,5,9,9,6, 10,6,11,9
+18;Joao;Fernandes;jfernandes@yahoo.pt;University of Lisbon;Rua da Assuncao 53;Lisbon;;Portugal;;+351 (213) 466-111;3,3,4,3,5,1,3,3,1,2,1,5
+19;Madalena;Sampaio;masampaio@sapo.pt;University of Porto;4350 Rua dos Campeoes Europeus de Viena; Porto;;Portugal;;+351 (225) 022-448;2,4,3,5,1,4,6,1,1,2,1,5
+22;Isabelle;Mercier;isabelle_mercier@apple.fr;University of Burgundy;68 Rue Jouvence;Dijon;;France;21000;+33 03 80 73 66 99;1,1,1,3,5,1,3,1,1,2,1,5
+23;Emma;Jones;emma_jones@hotmail.com;King's College;202 Hoxton Street;London;;United Kingdom;N1 5LH;+44 020 7707 0707;1,2,4,3,5,1,8,8,4,2,1,5
